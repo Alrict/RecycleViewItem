@@ -32,6 +32,7 @@ public class RecycleAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder
     private Context context;
 
     public enum Item_Type {
+        
         RECYCLEVIEW_ITEM_TYPE_1,
         RECYCLEVIEW_ITEM_TYPE_2,
         RECYCLEVIEW_ITEM_TYPE_3

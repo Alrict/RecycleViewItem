@@ -9,7 +9,7 @@ package com.niuduz.recycleview_different_item.module;
 public class Bean {
 
     private String text;
-    private int type; 
+    private int type;
 
     public String getText() {
         return text;
