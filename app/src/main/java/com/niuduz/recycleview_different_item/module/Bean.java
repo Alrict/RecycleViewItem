@@ -11,6 +11,7 @@ public class Bean {
     private String text;
     private int type;
     private String name;
+    private String age;
 
     public String getText() {
         return text;
