@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * 作    者 ：llw
  * 创建日期 ：2017/10/14 14:26
- * 描   述 ：
+ * 描   述 ：adapter
  */
 
 public class RecycleAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
@@ -32,7 +32,7 @@ public class RecycleAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder
     private Context context;
 
     public enum Item_Type {
-        
+
         RECYCLEVIEW_ITEM_TYPE_1,
         RECYCLEVIEW_ITEM_TYPE_2,
         RECYCLEVIEW_ITEM_TYPE_3
