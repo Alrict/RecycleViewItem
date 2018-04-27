@@ -13,8 +13,8 @@ import com.niuduz.recycleview_different_item.module.Bean;
 import java.util.List;
 
 /**
- * 作    者 ：丁广帅
- * 创建日期 ：2016/10/14 14:26
+ * 作    者 ：llw
+ * 创建日期 ：2017/10/14 14:26
  * 描   述 ：
  */
 

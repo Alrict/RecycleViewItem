@@ -10,8 +10,8 @@ import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
 /**
- * 作    者 ：丁广帅
- * 创建日期 ：2016/10/14 15:15
+ * 作    者 ：llw
+ * 创建日期 ：2017/10/14 15:15
  * 描   述 ：RecycleView分割线：必须继承ItemDecoration
  */
 
