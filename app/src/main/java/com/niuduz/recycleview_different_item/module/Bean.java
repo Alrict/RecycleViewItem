@@ -10,6 +10,7 @@ public class Bean {
 
     private String text;
     private int type;
+    private String name;
 
     public String getText() {
         return text;
