@@ -139,6 +139,7 @@ public class RecycleAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder
 
         public ViewHolderC(View itemView) {
             super(itemView);
+
             text = (TextView) itemView.findViewById(R.id.text);
         }
     }
