@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
+import com.niuduz.recycleview_different_item.manager.ModelChangeManager;
 import com.niuduz.recycleview_different_item.module.Bean;
 import com.niuduz.recycleview_different_item.recycleview.RecycleAdapter;
 import com.niuduz.recycleview_different_item.recycleview.RecycleItemDecoration;
@@ -50,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
             } else if (type == 2) {
                 bean.setType(2);
             }
+            ModelChangeManager.INSTANCE.start();
 
             mData.add(bean);
         }
